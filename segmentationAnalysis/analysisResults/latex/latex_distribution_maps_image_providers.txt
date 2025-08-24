@@ -1,0 +1,11 @@
+\begin{tabular}{lr}
+\toprule
+ & Percentual do Dataset \\
+\midrule
+Imagery ©2023 Airbus, CNES / Airbus, Maxar Technologies, Map data ©2023 & 50.000000 \\
+Imagery ©2022 Airbus, CNES / Airbus, Maxar Technologies, Map data ©2022 & 21.430000 \\
+Imagery ©2023 Airbus, Map data ©2023 & 14.290000 \\
+Map data ©2022 & 7.140000 \\
+Map data ©2022. Map data ©2022 & 7.140000 \\
+\bottomrule
+\end{tabular}

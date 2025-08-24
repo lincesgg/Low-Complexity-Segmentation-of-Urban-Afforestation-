@@ -1,0 +1,1 @@
+'min_max_threshold_0.0': {

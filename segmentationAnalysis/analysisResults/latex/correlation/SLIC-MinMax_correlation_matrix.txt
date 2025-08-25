@@ -3,9 +3,9 @@
  & SHLS_results & SHSV_results & LAB_results & LUV_results & RGB_results \\
 \midrule
 SHLS_results &  &  &  &  &  \\
-SHSV_results & 0.985987 &  &  &  &  \\
-LAB_results & 0.401490 & 0.380011 &  &  &  \\
-LUV_results & 0.630619 & 0.602866 & 0.760650 &  &  \\
-RGB_results & 0.440267 & 0.451742 & 0.401998 & 0.556278 &  \\
+SHSV_results & 0.992450 &  &  &  &  \\
+LAB_results & 0.969586 & 0.986090 &  &  &  \\
+LUV_results & 0.951392 & 0.972185 & 0.992546 &  &  \\
+RGB_results & 0.456646 & 0.469541 & 0.473413 & 0.477898 &  \\
 \bottomrule
 \end{tabular}

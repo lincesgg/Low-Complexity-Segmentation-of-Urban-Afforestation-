@@ -16,14 +16,14 @@ Data Processing Notebook: `segmentationAnalysis/analyze_segmentation_results.ipy
 ### Mean NormMCC For Each Method (Tecnique + Hyperparameters) Along All Color Spaces
 ---
 
-|<img src="./segmentationAnalysis/analysisResults/MCC/Mean-SD/heatmaps/Mean-SD-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png"/>|
+|<img src="./segmentationAnalysis/analysisResults/MCC/Mean-SD/heatmaps/Mean-SD-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png" width="500"/>|
 |:---------------:|
 |Mean-SD Threshold|
 
-|<img src="./segmentationAnalysis/analysisResults/MCC/K-Means+KNN/heatmaps/K-Means+KNN-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png"/>|
+|<img src="./segmentationAnalysis/analysisResults/MCC/K-Means+KNN/heatmaps/K-Means+KNN-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png" width="500"/>|
 |:---------------:|
 |Kmeans + KNN|
 
-|<img src="./segmentationAnalysis/analysisResults/MCC/MinMax-Slic/heatmaps/MinMax-Slic-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png"/>|
+|<img src="./segmentationAnalysis/analysisResults/MCC/MinMax-Slic/heatmaps/MinMax-Slic-Mean-Of-Color-Spaces-MCC-HPs_Heatmap.png" width="500"/>|
 |:---------------:|
 |SLIC + Min-Max|

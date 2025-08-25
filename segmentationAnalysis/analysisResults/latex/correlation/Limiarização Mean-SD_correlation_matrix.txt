@@ -1,0 +1,11 @@
+\begin{tabular}{llllll}
+\toprule
+ & SHLS_results & SHSV_results & LAB_results & LUV_results & RGB_results \\
+\midrule
+SHLS_results &  &  &  &  &  \\
+SHSV_results & 0.999461 &  &  &  &  \\
+LAB_results & 0.867392 & 0.869098 &  &  &  \\
+LUV_results & 0.923234 & 0.925183 & 0.988726 &  &  \\
+RGB_results & 0.893169 & 0.888720 & 0.908917 & 0.925235 &  \\
+\bottomrule
+\end{tabular}
